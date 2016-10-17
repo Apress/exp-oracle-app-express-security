@@ -1,0 +1,1 @@
+SELECT * FROM emp WHERE deptno = 10 AND ename LIKE '&P1_ENAME.'

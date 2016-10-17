@@ -1,0 +1,1 @@
+update emp set ename = 'ENKITEC';

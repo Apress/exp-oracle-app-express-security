@@ -1,0 +1,1 @@
+CREATE CONTEXT emp_vpd_ctx USING emp_vpd_ctx_pkg;

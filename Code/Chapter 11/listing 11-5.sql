@@ -1,0 +1,1 @@
+emp_ctx_pkg.set_ctx(p_username => :APP_USER);

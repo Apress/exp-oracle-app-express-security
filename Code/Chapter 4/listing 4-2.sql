@@ -1,0 +1,1 @@
+select v('WORKSPACE_ID') from dual

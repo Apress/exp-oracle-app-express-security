@@ -1,0 +1,1 @@
+SELECT * FROM user_sys_privs

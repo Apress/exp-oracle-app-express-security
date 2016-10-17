@@ -1,0 +1,1 @@
+SELECT ename, deptno FROM emp
